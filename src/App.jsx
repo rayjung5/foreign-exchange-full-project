@@ -72,7 +72,7 @@ export default function App() {
         );
       case "intro":
       default:
-        return <p>한국생활에 어려움을 겪고있는 외국인 친구들을 위하여 만든 프로그램램</p>;
+        return <p>한국생활에 어려움을 겪고있는 외국인 친구들을 위하여 만든 프로그램</p>;
     }
   };
 
